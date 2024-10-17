@@ -1,0 +1,5 @@
+# No hacer seguimientos a estos archivos
+*.exe
+
+# Noratrear la carpeta temp
+temp
