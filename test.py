@@ -1,1 +1,3 @@
 # hola
+def hola():
+    pass
